@@ -8,11 +8,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/orhan-kalkan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="orhan-kalkan" height="30" width="40" /></a>
-<a href="https://twitter.com/orhankalkan32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="orhankalkan32" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/orhan-kalkan-2a2534184" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="orhan-kalkan-2a2534184" height="30" width="40" /></a>
-<a href="https://fb.com/orhankalkan32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="orhankalkan32" height="30" width="40" /></a>
-<a href="https://instagram.com/orhankalkan32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="orhankalkan32" height="30" width="40" /></a>
-<a href="https://discord.gg/6zghpTM7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="6zghpTM7" height="30" width="40" /></a>
+<a href="https://twitter.com/orhankalkan32" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="orhankalkan32" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/orhan-kalkan-2a2534184" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="orhan-kalkan-2a2534184" height="30" width="40" /></a>
+<a href="https://fb.com/orhankalkan32" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="orhankalkan32" height="30" width="40" /></a>
+<a href="https://instagram.com/orhankalkan32" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="orhankalkan32" height="30" width="40" /></a>
+<a href="https://discord.gg/6zghpTM7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="6zghpTM7" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
