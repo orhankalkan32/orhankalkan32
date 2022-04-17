@@ -3,7 +3,7 @@
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=Orhan32 alt=Orhan32/> </p>
 
-<p align="left"> <a href="https://twitter.com/orhankalkan32" target="blank"><img src="https://img.shields.io/twitter/follow/rahuldkjain?logo=twitter&style=for-the-badge" alt="Orhan32" /></a> </p>
+<p align="left"> <a href="https://twitter.com/orhankalkan32" target="blank"><img src="https://img.shields.io/twitter/follow/Orhan32?logo=twitter&style=for-the-badge" alt="Orhan32" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
