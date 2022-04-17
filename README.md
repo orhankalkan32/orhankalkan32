@@ -1,7 +1,7 @@
 <h1 align="center">Merhaba 👋,</h1>
 <h3 align="center">Ben Orhan Isparta'da yaşıyorum, Back-End Developer olarak kendimi geliştirmekteyim. Yazılım dillerini ve frameworkleri öğrenmeyi çok seviyorum. Şu anda JavaScript öğrenmekteyim.</h3>
 
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=rahuldkjain alt=rahuldkjain/> </p>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=Orhan32 alt=Orhan32/> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
