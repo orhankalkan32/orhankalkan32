@@ -3,11 +3,11 @@
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=Orhan32 alt=Orhan32/> </p>
 
-<p align="left"> <a href="https://twitter.com/orhankalkan32" target="_blank"><img src="https://img.shields.io/twitter/follow/orhankalkan32?logo=twitter&style=for-the-badge" alt="orhankalkan32" /></a> </p>
+<p align="left"> <a href="https://twitter.com/orhankalkan32" target="blank"><img src="https://img.shields.io/twitter/follow/orhankalkan32?logo=twitter&style=for-the-badge" alt="orhankalkan32" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/orhan-kalkan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="orhan-kalkan" height="30" width="40" /></a>
+<a href="https://codepen.io/orhan-kalkan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="orhan-kalkan" height="30" width="40" /></a>
 <a href="https://twitter.com/orhankalkan32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="orhankalkan32" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/orhan-kalkan-2a2534184" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="orhan-kalkan-2a2534184" height="30" width="40" /></a>
 <a href="https://fb.com/orhankalkan32" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="orhankalkan32" height="30" width="40" /></a>
