@@ -3,6 +3,8 @@
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=Orhan32 alt=Orhan32/> </p>
 
+<p align="left"> <a href="https://twitter.com/orhankalkan32" target="blank"><img src="https://img.shields.io/twitter/follow/rahuldkjain?logo=twitter&style=for-the-badge" alt="Orhan32" /></a> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/orhan-kalkan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="orhan-kalkan" height="30" width="40" /></a>
